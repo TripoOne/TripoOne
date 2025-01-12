@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Streaming App**
 
-- 🌱 I’m currently learning **react, python**
-
-- 💬 Ask me about **flutter, java, php, javascript, css**
+- 💬 Ask me about **flutter,fastapi,java,python,php, javascript,css**
 
 - 📫 How to reach me **kishikipius@gmail.com**
 
