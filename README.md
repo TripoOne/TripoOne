@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/onetripo" target="blank"><img src="https://img.shields.io/twitter/follow/onetripo?logo=twitter&style=for-the-badge" alt="onetripo" /></a> </p>
 
-- 💬 Ask me about **flutter,fastapi,Dart,java,python,php, javascript,css**
-
-- 📫 How to reach me **kishikipius@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onetripo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onetripo" height="30" width="40" /></a>
