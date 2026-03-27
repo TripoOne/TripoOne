@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TripoOne</h1>
-<h3 align="center">🚀 Software Developer | Building POS & Fintech Systems</h3>
+<h3 align="center">🚀 Software Developer | Building Scalable Digital Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tripoone&label=Profile%20views&color=0e75b6&style=flat" alt="tripoone" />
@@ -8,10 +8,10 @@
 ---
 
 ## 🧠 About Me
-- 💻 Building **real-world business systems**
-- 🏪 Focused on **POS & Retail Solutions**
-- 📱 Specialized in **Mobile & Backend Development**
-- 🌍 Creating scalable solutions for **Tanzania & Africa**
+- 💻 Building **real-world digital systems**
+- 📱 Focused on **mobile & backend development**
+- ⚙️ Passionate about **scalable architectures**
+- 🌍 Creating solutions for **Tanzania & Africa**
 
 ---
 
@@ -26,18 +26,16 @@
 ---
 
 ### 🏪 Levanda POS
-- 📊 Complete POS system for retail businesses  
+- 📊 Complete retail management system  
 - 🧾 Sales, inventory, reporting & staff management  
-- 🏬 Multi-shop & business management  
-
+- 🏬 Multi-shop & business operations  
 👉 https://play.google.com/store/apps/details?id=com.levanda.pos  
 
 ---
 
 ### 🛠️ Sell Point Support
-- 🧩 Support tool for POS operations  
-- 📈 Helps manage business services  
-
+- 🧩 Support tool for business operations  
+- 📈 Helps manage services & workflows  
 👉 https://play.google.com/store/apps/details?id=com.sellpoint.sell_point_support  
 
 ---
