@@ -14,6 +14,7 @@
 <p align="left">
   📧 Email: <a href="mailto:kishikipius@gmail.com">kishikipius@gmail.com</a><br>
   🐦 Twitter: <a href="https://twitter.com/OneTripo" target="_blank">@OneTripo</a><br>
+  📸 Instagram: <a href="https://instagram.com/bitebytego" target="_blank">@bitebytego</a><br>
   💬 WhatsApp: <a href="https://wa.me/255786112616" target="_blank">+255 786 112 616</a>
 </p>
 
@@ -21,6 +22,9 @@
 <p align="left">
   <a href="https://twitter.com/OneTripo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onetripo" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/bitebytego" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bitebytego" height="30" width="40" />
   </a>
 </p>
 
